@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 
 ## How To Contibute
 you will get there
+You will find out soon
 
 ## YYYYYYYY??????????????
 ### Copy Right
