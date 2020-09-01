@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 you will get there
 
 ## YYYYYYYY??????????????
+### Copy Right
+Some copy bla bla ......
