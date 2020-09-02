@@ -15,8 +15,4 @@ You will find out soon
 
 ## YYYYYYYY??????????????
 ### Copy Right
-Some copy bla bla ......
-
-Who cares
-
-Oh I care
+All rights are reserved.
